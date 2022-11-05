@@ -1,5 +1,4 @@
-![9956ED335E0B242533 (1)](https://user-images.githubusercontent.com/117489265/200141001-37be531c-be4b-4979-95ca-268f5192c654.png)
-![6 (2)](https://user-images.githubusercontent.com/117489265/200140738-dce006c8-a30c-4173-ab44-c9f4dafaf7d3.jpg)
+
 # Efficacy-Verification-of-Users-Using-BLUFADE-Blurred-Face-Detection
 
 The project is made to cope with the problem of
@@ -21,3 +20,4 @@ dissimilarity of consecutive video frames of the same person
 and the dissimilarity between the frames of a person with all
 other frames of other people. The person is authenticated if
 the value is above a certain pre-defined threshold
+![9956ED335E0B242533 (1)](https://user-images.githubusercontent.com/117489265/200141001-37be531c-be4b-4979-95ca-268f5192c654.png)
