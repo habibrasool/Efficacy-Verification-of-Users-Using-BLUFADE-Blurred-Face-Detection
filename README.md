@@ -21,3 +21,7 @@ and the dissimilarity between the frames of a person with all
 other frames of other people. The person is authenticated if
 the value is above a certain pre-defined threshold
 ![9956ED335E0B242533 (1)](https://user-images.githubusercontent.com/117489265/200141001-37be531c-be4b-4979-95ca-268f5192c654.png)
+
+
+
+Koch, Gregory, Richard Zemel, and Ruslan Salakhutdinov. "Siamese neural networks for one-shot image recognition." In ICML deep learning workshop, vol. 2, p. 0. 2015.
